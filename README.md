@@ -7,7 +7,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lookin-at-the-stars&layout=compact&langs_count=7&theme=dark" style="max-width: 100%;">
 </div>
 <div>
-<a href="discordapp.com/users/ShootingStars#8293" scr="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="discordapp.com/users/ShootingStars#8293" target="_blank"><img scr="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
 
